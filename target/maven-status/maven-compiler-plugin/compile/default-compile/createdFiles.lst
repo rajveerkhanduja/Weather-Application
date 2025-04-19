@@ -1,0 +1,6 @@
+view\WeatherAppUI$1.class
+model\DatabaseHandler.class
+model\WeatherData.class
+view\WeatherAppUI.class
+controller\WeatherAPIService.class
+WeatherApp.class
