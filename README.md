@@ -3,6 +3,7 @@
 A Java-based desktop weather application that provides current weather conditions, hourly forecasts, and 10-day forecasts for cities worldwide.
 
 ![Weather App Screenshot](screenshots/weather-app-screenshot.png)
+![Weather App Screenshot](screenshots/weather-app-screenshot1.png)
 
 ## Features
 
