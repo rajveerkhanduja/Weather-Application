@@ -14,7 +14,7 @@ import org.json.JSONObject;
 import model.WeatherData;
 
 public class WeatherAPIService {
-    private static final String API_KEY = "5eeb369a5f71c296c9a37c5329208cce"; // Replace with your OpenWeatherMap API key
+    private static final String API_KEY = "Add your API Key"; // Replace with your OpenWeatherMap API key
     private static final String API_URL = "https://api.openweathermap.org/data/2.5/weather";
     private static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast";
     private static final String AIR_QUALITY_URL = "https://api.openweathermap.org/data/2.5/air_pollution";
